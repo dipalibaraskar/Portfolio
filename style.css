@@ -1,0 +1,19 @@
+.projectContainer .col-md-4 {
+    /* border: 1px solid #ccc;
+    border-radius: 5px; */
+    padding: 20px;
+}
+
+.projectContainer img {
+    width: 400px;
+    display: inline-block;
+    height: 300px;
+    border: 2px solid #ccc;
+    padding: 5px;
+}
+
+.projectContainer h3 {
+    text-align: center;
+    margin: 10px 0;
+    color: red;
+}
